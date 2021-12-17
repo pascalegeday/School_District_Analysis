@@ -1,4 +1,4 @@
-# Analysis of School Districts Using Python/Jupyter
+# Analysis of School Districts Using Python/Pandas/Jupyter
 
 In this project I assisted Maria, a chief data scientist for a city school district, in providing insights to performance trends and patterns to be able to inform discussions and strategic decisions at the school and disctrict level. Using data on student funding, student's standardized test scores, and school information, we will be able to showcase trends in school performance so that the school board can make decisions on budgets and school priorities. 
 Unfortunately, when initial analysis took place, there was evidence of academic dishonesty from one of the grade levels from a high school in the data provided. In order to maintain the integrity of the data, we were tasked with removing this specific high school's grade-level and write up a report to describe how removing this specific grade level affecred the overall analysis. 
